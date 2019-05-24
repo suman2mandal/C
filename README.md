@@ -1,4 +1,4 @@
-# C
+# C Algorithms and exercises
 
 ## Computer Oriented Statistical Methods
 	- Gauss_Elimination
